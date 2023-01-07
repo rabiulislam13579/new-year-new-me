@@ -79,3 +79,40 @@
     font-size: 16px;
     color: #444343;
 }
+/* plans */
+.plan{
+    margin-top: 100px;
+
+}
+.plan-heading{
+    font-weight: 700;
+    font-size: 40px;
+    text-align: center;
+    color: #151414;
+
+}
+.plan-contain{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 50px;
+    margin-right:50px;
+    margin-top: 50px;
+
+}
+.plan-img{
+    margin-left: 30px;
+
+}
+.plan-title{
+    font-weight: 700;
+    font-size: 30px;
+    color: #151414;
+
+}
+.plan-description{
+    font-weight: 500;
+    font-size: 25px;
+    color: #737272;
+    text-align: center;
+
+}
