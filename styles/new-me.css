@@ -181,3 +181,38 @@
     border-radius: 5px;
 
 }
+/* footer */
+.footer{
+    display: flex;
+    background-color:black ;
+    color: white;
+    padding:50px 100px; 
+    margin-top: 100px;
+    gap: 200px;
+} 
+.future-title{
+    font-weight: 700;
+    font-size: 40px;
+
+}
+
+.future-des-one{font-weight: 400;
+    font-size: 16px;
+
+}
+.future-des-two{
+    font-weight: 400;
+    font-size: 16px;
+}
+.future-des-three{font-weight: 400;
+    font-size: 16px;
+
+}
+.button{ color: blue;
+    font-weight: 600;
+    font-size: 20px;
+    border:2px sloid black;
+    padding: 10px 20px; 
+    border-radius: 5px;
+     margin-top: 10px;
+}
