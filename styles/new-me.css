@@ -1,0 +1,48 @@
+/* header */
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+.header{
+    background-image: url(../images/banner/banner3.png);
+    width: 1070px;
+    height: 560px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+  
+}
+.heading{
+    text-align: right;
+ 
+}
+.header-title{
+    margin-left: 670px;
+    margin-right: 80px;
+    padding-top: 50px;
+    text-align: right;
+    font-weight: 600;
+    font-size: 45px;
+    color: #FFFFFF;
+    
+
+}
+.header-description{ 
+    margin-left: 670px;
+    margin-right: 80px;
+    text-align: right;
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+
+}
+.btn{
+    color:#005FAC;
+    font-weight: 600;
+    font-size: 20px;
+    margin-left: 850px;
+    padding: 10px 20px;
+    border: 1px solid #FFFFFF ;
+    border-radius: 5px;
+
+}
+/* my failure */
