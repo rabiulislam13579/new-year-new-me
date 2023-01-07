@@ -39,10 +39,43 @@
     color:#005FAC;
     font-weight: 600;
     font-size: 20px;
-    margin-left: 850px;
+    margin-right: 80px;
+    margin-left: 800px;
     padding: 10px 20px;
     border: 1px solid #FFFFFF ;
     border-radius: 5px;
 
 }
 /* my failure */
+.failure{
+    margin-top: 80px;
+    display: flex;
+    gap: 30px;
+}
+.failure-img{
+    margin-left: 50px;
+   
+
+}
+.failure-description{
+    margin-top:160px;
+    margin-right: 50px;
+  
+
+}
+.failure-title{
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+
+}
+.failure-descriptiop{
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+}
+.failure-pont{
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+}
